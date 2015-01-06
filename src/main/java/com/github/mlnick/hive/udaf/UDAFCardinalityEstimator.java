@@ -90,7 +90,7 @@ public class UDAFCardinalityEstimator implements GenericUDAFResolver2 {
     public static final int LC_DEFAULT_SIZE = 1000000;
     public static final String ESTIMATOR_TYPE = "type";
     public static final String CARDINALITY = "cardinality";
-    public static final String BINARY = "binary";
+    public static final String BINARY = "bin";
 
     // TODO byte to id the estimator type?
     //public static final byte HLL = 0;
